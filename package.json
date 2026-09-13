@@ -1,0 +1,10 @@
+{
+  "name": "jhn-wear-v6",
+  "version": "6.0.0",
+  "private": true,
+  "description": "JHN WEAR online store with admin API",
+  "main": "server.js",
+  "scripts": {"start":"node server.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {"express":"^4.21.2"}
+}
