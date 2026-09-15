@@ -1,0 +1,12 @@
+public/
+├── index.html
+├── style.css
+├── script.js
+├── admin.html
+├── admin.css
+├── admin.js
+└── assets/
+    ├── shirt_jeans_brown.jpg
+    ├── shirt_jeans_pink.jpg
+    ├── shirt_jeans_cream.jpg
+    └── shirts_pack.jpg
